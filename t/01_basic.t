@@ -4,7 +4,7 @@ use Test::More;
 
 use App::WhatTimeIsIt;
 
-can_ok 'App::WhatTimeIsIt', qw/new/;
+can_ok 'App::WhatTimeIsIt', qw/new opt run/;
 
 # write more tests
 
